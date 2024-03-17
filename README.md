@@ -1,5 +1,8 @@
 # React + Vite
 
+SEE THE LIVE PROJECT HERE:
+[Simple Todo in React](https://the-todo-react.netlify.app/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
